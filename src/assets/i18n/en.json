@@ -1,0 +1,13 @@
+{
+    "HOME":{
+    "TITLE":"Hello, please",
+    "WELCOME":"Thank you {{name}}"
+    },
+    "BUTTON":{
+        "LANG":{
+            "RU":"Russian",
+            "EN":"English"
+        }
+    }
+}
+

@@ -1,0 +1,35 @@
+form{width: 60%;
+margin-left: 20px;}
+.form-select{
+    border-radius: 5px;
+    
+}
+h1{
+    margin-left: 20px;
+}
+table,th,td{
+ border: 1px solid black;
+}
+input[type="file"]{
+    display: none;
+}
+/* label{
+    margin-left: 30px;
+    color: white;
+    height: 40px;
+    width: 200px;
+    background-color: #e3a81d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    font-size: 20px;
+    margin-right: 30px;
+   
+    
+} */
+/* .flexible{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+} */
